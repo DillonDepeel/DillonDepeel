@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋 I'm Dillon Depeel ( ͡° ͜ʖ ͡°)
 
 
 - 🔭 I’m currently working on the Hello Project which aims to give that program recognition
