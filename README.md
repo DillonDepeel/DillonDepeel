@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Dillon Depeel ( ͡° ͜ʖ ͡°)
 
 
-- 🔭 I’m currently working on the Hello Project which aims to give that program recognition
+- 🔭 I’m currently working on the Hello Project which aims to give that program recognition, and on making programs in pure binary form
 - 🌱 I’m currently learning COBOL and Javascript, also playing with raspberry pi
 - 🤔 I’m looking for help with The Hello World Project, which you can find here: https://github.com/DillonDepeel/The-Hello-World-Project
 - 📫 How to reach me:dillondepeel@hotmail.com
