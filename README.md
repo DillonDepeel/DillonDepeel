@@ -1,9 +1,9 @@
 # Hi there 👋 I'm Dillon Depeel ( ͡° ͜ʖ ͡°)
 
 
-- 🔭 I’m currently working on the Hello Project which aims to give that program recognition, and on making programs in pure binary form
+- 🔭 I’m currently working on the COBOL Archive, Aiming to Save This Early Programming language
 - 🌱 I’m currently learning COBOL and Javascript, also playing with raspberry pi
-- 🤔 I’m looking for help with The Hello World Project, which you can find here: https://github.com/DillonDepeel/The-Hello-World-Project
+- 🤔 I’m looking for help with The Cobol Archive, which you can find here: https://github.com/DillonDepeel/The-COBOL-Archive
 - 📫 How to reach me:dillondepeel@hotmail.com
 - ⚡ Fun fact: I am fluent in the Brainfuck and apl programming languages, among others.
 
